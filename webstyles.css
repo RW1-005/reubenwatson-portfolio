@@ -291,6 +291,7 @@ a {
   color: var(--text-primary);
   font-size: 1rem;
   font-family: var(--font-mono);
+  border: 1px solid var(--border-color);
 }
 
 .info-item i {
