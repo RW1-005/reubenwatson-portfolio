@@ -233,6 +233,8 @@ a {
   padding: 40px 60px;
   max-width: 1200px;
   margin: 0 auto;
+  border: 1px solid var(--border-color);
+
 }
 
 .about-card {
@@ -240,6 +242,7 @@ a {
   justify-content: space-between;
   padding: 50px;
   gap: 40px;
+  border: 1px solid var(--border-color);
 }
 
 .about-left {
@@ -291,7 +294,6 @@ a {
   color: var(--text-primary);
   font-size: 1rem;
   font-family: var(--font-mono);
-  border: 1px solid var(--border-color);
 }
 
 .info-item i {
@@ -409,7 +411,6 @@ a {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 16px;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .tech-card {
