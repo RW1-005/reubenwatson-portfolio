@@ -158,7 +158,6 @@ a {
   color: var(--text-primary);
   font-size: 1.2rem;
   transition: all 0.3s ease;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .social-button:hover {
@@ -182,7 +181,6 @@ a {
   overflow: hidden;
   font-family: var(--font-mono);
   font-size: 0.95rem;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .terminal-header {
@@ -242,7 +240,6 @@ a {
   justify-content: space-between;
   padding: 50px;
   gap: 40px;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .about-left {
@@ -341,7 +338,6 @@ a {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .project-card {
@@ -352,7 +348,6 @@ a {
   display: flex;
   flex-direction: column;
   gap: 12px;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .project-icon {
