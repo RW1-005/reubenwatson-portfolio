@@ -158,7 +158,6 @@ a {
   color: var(--text-primary);
   font-size: 1.2rem;
   transition: all 0.3s ease;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .social-button:hover {
@@ -182,7 +181,6 @@ a {
   overflow: hidden;
   font-family: var(--font-mono);
   font-size: 0.95rem;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
 }
 
 .terminal-header {
@@ -235,6 +233,7 @@ a {
   padding: 40px 60px;
   max-width: 1200px;
   margin: 0 auto;
+
 }
 
 .about-card {
@@ -242,7 +241,7 @@ a {
   justify-content: space-between;
   padding: 50px;
   gap: 40px;
-  box-shadow: 0 0 10px rgba(160, 187, 245, 0.3);
+  border: 1px solid var(--border-color);
 }
 
 .about-left {
